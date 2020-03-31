@@ -1,0 +1,82 @@
+
+body {
+    display: table;
+}
+
+.main {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    padding-left: 35%;
+    padding-top: 10%;
+}
+
+.Icon{
+  margin : auto;
+  display: block;
+  
+}
+.searchBar {
+    padding-top: 20px;
+    width: 500px;
+    margin: auto;
+    display: block;
+    
+}
+.searchbar {
+    width: 500px;
+    border-radius: 3px;
+    height: 40px;
+    color: black;
+    
+}
+
+.buttons{
+    padding-top : 30px;
+    display: block;
+    margin: auto;
+}
+.googleSearch {
+    height: 30px;
+    cursor: pointer;
+    border-radius: 3px;
+
+}
+
+.Icon{
+    cursor: pointer;
+}
+
+.gmail {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left : 60%;
+    padding-top: 50px;
+    cursor: pointer;
+    
+}
+
+.effi {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left : 74%;
+    padding-top: 50px;
+    cursor: pointer;
+}
+
+.lightshot{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    padding-top: 50px;
+    left : 88%;
+    cursor: pointer;
+}
+
+.icons{
+    width : 500px;
+    height: 120px;
+}
